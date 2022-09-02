@@ -1,7 +1,7 @@
 {
-  "name": "abr-benchmarking-tool",
+  "name": "content-steering",
   "version": "0.0.1",
-  "description": "A framework to compare ABR metrics of different players",
+  "description": "A CDN-Steering server to test content steering in DASH",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
